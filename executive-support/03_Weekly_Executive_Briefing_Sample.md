@@ -3,7 +3,7 @@
 **Document:** 03 — Executive & Founder Support Sample
 **Sample Engagement:** Helix MedTech Solutions (fictional)
 **Prepared for:** Dr. James Reed, CEO and Co-founder (fictional)
-**Prepared by:** Goodness Ajii, RN, BSN — Executive Virtual Assistant
+**Prepared by:** Goodness Ajii, RN, RNN — Executive Virtual Assistant
 **Version:** 1.0
 **Week of:** Monday, May 18 – Friday, May 22, 2026
 
@@ -199,7 +199,7 @@ When a founder reads a Monday briefing like this, they realize:
 
 | Field | Detail |
 |---|---|
-| **Author** | Goodness Ajii, RN, BSN — Executive Virtual Assistant |
+| **Author** | Goodness Ajii, RN, RNN — Executive Virtual Assistant |
 | **Created** | May 2026 |
 | **Cadence** | Delivered every Monday by 7:00 AM in the founder's time zone |
 | **Format** | Markdown in Notion (preferred) or PDF in inbox |
