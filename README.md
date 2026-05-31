@@ -2,7 +2,7 @@ block:
 
 # Healthcare & MedTech Virtual Assistant Portfolio
 
-**Prepared by:** Goodness Ajii, RN, BSN — Certified Medical Virtual Assistant
+**Prepared by:** Goodness Ajii, RN, RNN — Certified Medical Virtual Assistant
 **Date:** May 2026
 
 > Two tracks of work, in one repository. Choose the track that fits your role.
@@ -148,5 +148,5 @@ Based in Nigeria (West Africa Time, UTC+1):
 
 ---
 
-**Goodness Ajii, RN**
+**Goodness Ajii, RN, RNN**
 *Certified Medical Virtual Assistant*
