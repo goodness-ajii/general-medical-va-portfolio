@@ -1,11 +1,23 @@
 block:
 
+# Healthcare & MedTech Virtual Assistant Portfolio
+
+**Prepared by:** Goodness Ajii, RN, BSN — Certified Medical Virtual Assistant
+**Date:** May 2026
+
+> Two tracks of work, in one repository. Choose the track that fits your role.
+
+| Track | Who It's For | Where |
+|---|---|---|
+| **Medical Practice Operations** | Practice owners, office managers, primary care, family medicine, dermatology, pediatrics | This README and files `01_` – `06_` below |
+| **Executive & Founder Support** | Healthcare and MedTech founders, CEOs, and senior leaders who need investor / partner / customer meeting support, conference and travel logistics, and weekly executive briefings | [`executive-support/`](./executive-support/) |
+
+---
+
 # Medical Practice Virtual Assistant Portfolio
 
-**Prepared by:** Goodness Ajii, RN, Certified Medical Virtual Assistant
 **Sample Practice:** Sunrise Family Medicine & Wellness (fictional)
 **Platform Reference:** SimplePractice
-**Date:** May 2026
 
 > Portfolio sample built for a fictional family medicine practice. All names, contact details, and patient data are illustrative. The frameworks, scripts, and SOPs reflect industry best practices and can be adapted to any real medical practice.
 
