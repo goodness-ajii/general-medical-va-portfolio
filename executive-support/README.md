@@ -33,6 +33,24 @@ Each sample is fully written out — not a template skeleton — so a founder ca
 
 ---
 
+## Tools in Action — App Workflow Screenshots
+
+The written samples above show *what* I deliver. The folders below show *how* I deliver it — captured directly from the apps I use day to day in executive support.
+
+| # | Folder | Tool | What It Demonstrates |
+|---|---|---|---|
+| 01 | [`01 Meeting Notes Management_Google Docs`](./01%20Meeting%20Notes%20Management_Google%20Docs/) | **Google Docs** | Setting up a clean meeting notes document, populating a completed template, and configuring share settings so the right people see the notes — and only the right people. |
+| 02 | [`02 Calendar Management_Google Calendar`](./02%20Calendar%20Management_Google%20Calendar/) | **Google Calendar** | Calendar settings, event creation, guest invitations, auto-generated meeting links, and reminder configuration — the core of executive calendar hygiene. |
+| 03 | [`03 Travel Management_Google Flight + TripIt`](./03%20Travel%20Management_Google%20Flight%20%2B%20TripIt/) | **Google Flights** | Flight search and price tracking — the first half of the travel workflow, focused on finding and locking in the right flights at the right price. |
+| 04 | [`04 Meeting Scheduling_Calendly`](./04%20Meeting%20Scheduling_Calendly/) | **Calendly** | Event type creation, duration setup, calendar integration, and availability rules — how I let investors, partners, and customers self-schedule without back-and-forth. |
+| 05 | [`05 Action Item Tracking_Asana`](./05%20Action%20Item%20Tracking_Asana/) | **Asana** | Project setup, board view, task detail capture, and deadline configuration — how meeting commitments turn into tracked work that doesn't slip. |
+| 06 | [`06 TripIt`](./06%20TripIt/) | **TripIt** | Trip dashboard, flight detail capture, hotel reservations, and a fully consolidated itinerary — the second half of the travel workflow, focused on making the trip itself frictionless. |
+| 07 | [`07 Conference Management_Notion`](./07%20Conference%20Management_Notion/) | **Notion** | Page creation, completed event tracker, executive operations dashboard, contacts database, notes section, and daily executive view — my central hub for executive operations. |
+
+> **Note:** Folder 03 (Google Flights) and folder 06 (TripIt) together cover the full travel workflow — searching and pricing flights in Google Flights, then forwarding confirmations into TripIt for itinerary management. Reading them together gives the most complete picture.
+
+---
+
 ## How I Work With Founders
 
 ### Onboarding (Week 1–2)
