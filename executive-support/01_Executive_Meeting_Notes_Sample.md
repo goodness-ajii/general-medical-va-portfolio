@@ -2,7 +2,7 @@
 
 **Document:** 01 — Executive & Founder Support Sample
 **Sample Engagement:** Helix MedTech Solutions (fictional)
-**Prepared by:** Goodness Ajii, RN, BSN — Executive Virtual Assistant
+**Prepared by:** Goodness Ajii, RN, RNN — Executive Virtual Assistant
 **Version:** 1.0
 **Date:** May 2026
 
@@ -178,7 +178,7 @@ When a founder reads notes like these, they realize:
 
 | Field | Detail |
 |---|---|
-| **Author** | Goodness Ajii, RN, BSN — Executive Virtual Assistant |
+| **Author** | Goodness Ajii, RN, RNN — Executive Virtual Assistant |
 | **Created** | May 2026 |
 | **Last Reviewed** | May 2026 |
 | **Review Cadence** | Format adapted to each engagement during onboarding |
