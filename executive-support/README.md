@@ -1,6 +1,6 @@
 # Executive & Founder Support — Healthcare and MedTech
 
-**Prepared by:** Goodness Ajii, RN, BSN — Executive Virtual Assistant
+**Prepared by:** Goodness Ajii, RN, RNN — Executive Virtual Assistant
 **Audience:** Founders, CEOs, and senior leaders at healthcare, MedTech, and life sciences companies
 **Date:** May 2026
 
@@ -101,5 +101,5 @@ Based in Nigeria (West Africa Time, UTC+1):
 
 ---
 
-**Goodness Ajii, RN, BSN**
+**Goodness Ajii, RN, RNN**
 *Executive Virtual Assistant — Healthcare & MedTech*
